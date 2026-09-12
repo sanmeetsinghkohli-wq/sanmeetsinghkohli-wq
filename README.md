@@ -329,8 +329,6 @@ An AI-powered document generator for freelancers — describe a project in plain
 
 </div>
 
-> Note: the snake animation needs a one-time GitHub Actions workflow added to this same profile repo — see [Platane/snk](https://github.com/Platane/snk) for the workflow file to add.
-
 ---
 
 ## 🎯 Current Focus
