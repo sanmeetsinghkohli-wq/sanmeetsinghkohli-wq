@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2e1065,100:4c1d95&height=280&section=header&text=Sanmeet%20Singh%20Kohli&fontSize=62&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Tech%20Leader&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Multi-Agent+AI+Systems;LLMs+%7C+RAG+%7C+Azure+OpenAI+%7C+CNNs;Developer+%40+Devnity+Co;Head+of+Outreach+%40+UOWD+Tech+Club;4x+Hackathon+Winner+%2F+Finalist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Multi-Agent+AI+Systems;LLMs+%7C+RAG+%7C+Azure+OpenAI+%7C+CNNs;Developer+%40+Devnity+Co;Deputy+Head+of+AI+%40+UOWD+Tech+Club;4x+Hackathon+Winner+%2F+Finalist" alt="Typing SVG" />
 </a>
 
 <br/>
