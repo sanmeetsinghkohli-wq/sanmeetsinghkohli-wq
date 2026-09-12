@@ -91,7 +91,7 @@ I work across the stack — **Python, FastAPI, React.js, Next.js, Azure OpenAI**
 | **Agentic AI & LLM Applications** | ⭐⭐⭐⭐⭐ | Multi-agent systems, tool-calling agents, RAG, conversational AI using Azure OpenAI |
 | **Machine Learning & Deep Learning** | ⭐⭐⭐⭐ | CNN-based image classification, model evaluation, Pandas/NumPy pipelines |
 | **Computer Vision (Diagnostics)** | ⭐⭐⭐⭐ | Brain MRI tumor classification using Azure Custom Vision (Tumor Vision) |
-| **NLP & Prompt Engineering** | ⭐⭐⭐⭐ | Prompt design, conversational assistants, multilingual AI (SarkarSathi) |
+| **NLP & Prompt Engineering** | ⭐⭐⭐⭐⭐ | Certified in Prompt Engineering (AWS) & the Dubai One Million Prompters initiative; prompt design, conversational assistants, multilingual AI (SarkarSathi) |
 | **Voice AI / Conversational Interfaces** | ⭐⭐⭐⭐ | Voice-first, multilingual civic-tech assistant for government schemes |
 | **Cloud AI Infrastructure (Azure)** | ⭐⭐⭐⭐ | Azure OpenAI, Azure Custom Vision, cloud deployment fundamentals |
 | **Data Fundamentals** | ⭐⭐⭐ | Data Mining, Big Data technologies, SQL & relational databases |
@@ -281,6 +281,9 @@ An AI-powered document generator for freelancers — describe a project in plain
 <img src="https://img.shields.io/badge/Zero%20To%20Mastery-Complete%20SQL%20%26%20Databases-6d28d9?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Alison-Intro%20to%20Software%20Testing-4c1d95?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
 <img src="https://img.shields.io/badge/IBM-SQL%20%26%20Relational%20Databases%20101-7c3aed?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Exploring%20AI%20Use%20Cases%20%26%20Applications-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Foundations%20of%20Prompt%20Engineering-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dubai%20Future%20Foundation-One%20Million%20Prompters%20Initiative-000000?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 
 </div>
 
