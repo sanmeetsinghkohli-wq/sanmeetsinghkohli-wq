@@ -41,12 +41,12 @@ prior: Diploma in Computer Engineering, MIT Polytechnic, Chh. Sambhajinagar (202
 based_in: Dubai, UAE
 current:
   - Developer @ Devnity Co
-  - Head of Outreach @ UOWD Tech Club
+  - Deputy Head of AI @ UOWD Tech Club
 ```
 
 I'm an AI Engineer and Full-Stack Developer passionate about building **intelligent, real-world solutions** using machine learning, LLMs, and cloud technologies. I've shipped AI-driven platforms spanning **healthcare diagnostics**, **academic productivity**, and **civic tech**, alongside scalable full-stack web applications.
 
-I work across the stack — **Python, FastAPI, React.js, Next.js, Azure OpenAI** — with a particular focus on **multi-agent systems**, **RAG pipelines**, and **CNN-based diagnostic models**. I'm a proven leader, multi-hackathon winner, and active tech community contributor: currently building at **Devnity Co** and driving outreach/partnerships as **Head of Outreach at the UOWD Tech Club**.
+I work across the stack — **Python, FastAPI, React.js, Next.js, Azure OpenAI** — with a particular focus on **multi-agent systems**, **RAG pipelines**, and **CNN-based diagnostic models**. I'm a proven leader, multi-hackathon winner, and active tech community contributor: currently building at **Devnity Co** and leading AI initiatives as **Deputy Head of AI at the UOWD Tech Club**.
 
 <div align="center">
 
@@ -222,14 +222,14 @@ An AI-powered document generator for freelancers — describe a project in plain
 
 <br/>
 
-### Head of Outreach — **UOWD Tech Club**
+### Deputy Head of AI — **UOWD Tech Club**
 `Oct 2025 — Present`
 
-- Leading sponsor outreach and partnership efforts for the UOWD Innovators Hackathon 2026 (200+ students, 8 tracks)
-- Organizing AI-focused workshops, initiatives, and tech events for the student community
+- Leading AI-focused workshops, initiatives, and tech events for the student community
+- Driving sponsor outreach and partnership efforts for the UOWD Innovators Hackathon 2026 (200+ students, 8 tracks)
 - Mentoring peers and promoting hands-on AI project development across the university
 
-`Community Building` `Sponsorship Outreach` `Event Direction` `Mentorship`
+`AI Leadership` `Community Building` `Event Direction` `Mentorship`
 
 <br/>
 
